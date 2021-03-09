@@ -7,7 +7,7 @@
 
 当前版本：![GitHub tag](https://img.shields.io/badge/tag-v0.0.5-orange)
 
-## 使用说明
+### 使用说明
 
 - UTC 18,2,8 会进行一次签到，换算成国内时间每天凌晨2点、上午10点和晚上4点执行一次
 - 激活`Action`
